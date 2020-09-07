@@ -15,7 +15,7 @@ Python Libraries:
   <li>Plotly</li>
 </ul>
 
-The script also requires these 2 APIs to properly work (both are free for this limited use:
+The script also requires these 2 APIs to properly work (both are free for this limited use):
 
 <ul>
   <li><a href="https://opencagedata.com/api#intro">OpenCage</a> to retrieve latitute and logitude of the selected cities;</li>
