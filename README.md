@@ -2,7 +2,7 @@
 
 This script allows you to compare the last 5 days hourly temperature of 2 cities. The output is a heatmap put together using plotly (<a href="https://plotly.com/python/heatmaps/">Plotly Documentation</a>). Since OpenWeather requires longitude / latitude to output something this script is using forward (text to lat/long) geocoding using OpenCage API.
 
-img
+<img src="https://raw.githubusercontent.com/FilippoGalanti/Temperature_Comparison/master/Temperature%20Comparison.PNG" alt="Output Example">
 
 <b>Prerequisites</b>
 
