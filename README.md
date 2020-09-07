@@ -26,6 +26,10 @@ The script also requires these 2 APIs to properly work (both are free for this l
 
 The output is a Plotly heatmap that display the last 5 days of hourly temperature in Celsius degree. This can be changed to Fahrenheit updating the request to the API.
 
+<b>Issues</b>
+
+Since time information provided by the API is unix time stamp some pair of cities (if these are located far from UTC timezone) may provide some odd results with nights that seems hotter than days.
+
 <b>Future Developments</b>
 
 As of today there are no future developments for this script. It's a straightforward project done to get more familiar with APIs and Plotly so it does not really need any additional work.
